@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BK_STM8)(type Legacy)(uri J:/Project/KICad-Library/BK_STM8.lib)(options "")(descr ""))
+  (lib (name BK_Common)(type Legacy)(uri J:/Project/KICad-Library/BK_Common.lib)(options "")(descr ""))
+)
